@@ -10,7 +10,6 @@
     <form id="form1" runat="server">
     <div>
     HI..
-			Changed Again
     </div>
     </form>
 </body>
